@@ -1,0 +1,139 @@
+div {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 5px;
+  font-family: 'Bellota', cursive;
+  font-size: 5.5rem;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: 0 auto 50px;
+  font-family: 'Arvo', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+  text-decoration: none;
+}
+hr{
+  height: 2px;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  margin: 50px auto;
+}
+
+.profile_text{
+  width: 35%;
+  margin: 0 auto;
+}
+.programmer_subtitle {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top_container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom_container{
+  background-color: #66BFBF;
+  line-height: 3;
+}
+
+.top_cloud {
+  position: relative;
+  margin-left: 600px;
+}
+
+.bottom_cloud {
+  margin-bottom: 20px;
+  margin-right: 600px;
+}
+
+.img_mountain{
+  position:relative;
+  display: block;
+  margin: 0 auto;
+}
+
+.profile_pic{
+  margin-top: 50px;
+}
+
+.profile_text{
+  color: #40514E;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill_watch {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill_bonzai {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin-bottom: 25px;
+}
+
+.contact_me_button {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.contact_me_button:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.contact_me_button:active {
+	position:relative;
+	top:1px;
+}
+
+.Surname {
+  margin-bottom: 0;
+}
